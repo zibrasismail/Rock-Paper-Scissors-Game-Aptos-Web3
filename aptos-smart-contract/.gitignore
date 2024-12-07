@@ -1,0 +1,8 @@
+
+# aptos
+aptos.lock
+aptos.lock.yaml
+aptos.lock.json
+aptos.lock.toml
+build
+.aptos
